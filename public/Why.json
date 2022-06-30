@@ -1,12 +1,13 @@
 [
     {
         "id": 1,
-        "img": "../src/assets/icons/bi_image-fill.svg",
+        "img": "file:///F:/Interview/icons/Robot.svg",
         "heading": "Prove your skills",
         "text": "Gain substantial experience by solving real-world problems and pit against others to come up with innovative solutions."
     },
     {
         "id": 2,
+        "img": "../src/assets/icons/Robot.svg",
         "heading": "Learn from community",
         "text": "One can look and analyze the solutions submitted by the other Data Scientists in the community and learn from them."
     },
